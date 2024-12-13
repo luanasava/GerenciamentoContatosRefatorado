@@ -369,3 +369,4 @@ C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\obj\Debug\net8.0\refint\Tech
 C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\obj\Debug\net8.0\TechChallengeFase3.Teste.pdb
 C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\obj\Debug\net8.0\TechChallengeFase3.Teste.genruntimeconfig.cache
 C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\obj\Debug\net8.0\ref\TechChallengeFase3.Teste.dll
+C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll

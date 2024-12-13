@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="bcc67f56-a0ba-414c-8eb9-042d4ba91d55" name="luana@LUA 2024-12-13 10:36:01" runUser="LUA\luana" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-12-13T10:36:01.9070402-03:00" queuing="2024-12-13T10:36:01.9070407-03:00" start="2024-12-13T10:35:56.1170361-03:00" finish="2024-12-13T10:36:02.0471576-03:00" />
+  <TestSettings name="default" id="5ee88d96-62b6-4c88-bffc-e07390e29012">
+    <Deployment runDeploymentRoot="luana_LUA_2024-12-13_10_36_01" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="fa6d5660-a18f-43a4-a4da-c7d666555055" testId="8b9b7278-5a64-1cec-ca39-af4093f6cbfa" testName="TechChallenge.Teste.ContatoControllerTest_Excluir.ExcluirContato_Excecao" computerName="LUA" duration="00:00:02.8081124" startTime="2024-12-13T10:36:01.8952962-03:00" endTime="2024-12-13T10:36:01.8952962-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa6d5660-a18f-43a4-a4da-c7d666555055" />
+    <UnitTestResult executionId="50a2b8ef-d3fc-4e76-bbe7-234b93566806" testId="01642a56-7d2f-7ad6-a93b-41a9c5dd1976" testName="TechChallenge.Teste.ContatoControllerTest_ObterPorRegiao.ObterContatoPorRegiao_RetornaOk" computerName="LUA" duration="00:00:02.8047827" startTime="2024-12-13T10:36:01.8952044-03:00" endTime="2024-12-13T10:36:01.8952045-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50a2b8ef-d3fc-4e76-bbe7-234b93566806" />
+    <UnitTestResult executionId="715d880e-bf0c-4ea2-9add-8e3dc15596bf" testId="215f19b1-3985-2a3c-dce7-8e5d6a26a28c" testName="TechChallenge.Teste.ContatoControllerTest_Atualizar.AtualizarContato_RetornaOk" computerName="LUA" duration="00:00:00.0005331" startTime="2024-12-13T10:36:01.8953431-03:00" endTime="2024-12-13T10:36:01.8953432-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="715d880e-bf0c-4ea2-9add-8e3dc15596bf" />
+    <UnitTestResult executionId="6f76deda-0af6-449d-abda-979a58afb087" testId="37c89a11-f227-9aa1-3ac6-1a3f7b2f4d67" testName="TechChallenge.Teste.ContatoControllerTest_ObterPorRegiao.ObterContatoPorRegiao_Excecao" computerName="LUA" duration="00:00:00.0010240" startTime="2024-12-13T10:36:01.8952351-03:00" endTime="2024-12-13T10:36:01.8952351-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f76deda-0af6-449d-abda-979a58afb087" />
+    <UnitTestResult executionId="32c29124-2914-4c0e-b78d-5d04287e0b57" testId="e84b78ac-cd22-b97f-09a5-b12a061fdd63" testName="TechChallenge.Teste.ContatoControllerTest_Excluir.ExcluirContato_RetornaOK" computerName="LUA" duration="00:00:00.0041519" startTime="2024-12-13T10:36:01.8987066-03:00" endTime="2024-12-13T10:36:01.8987067-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32c29124-2914-4c0e-b78d-5d04287e0b57" />
+    <UnitTestResult executionId="0e7e3b8a-72ec-4c97-9ff1-27b93d0e7245" testId="d8094e15-3ad5-966b-b9b3-b7f18291a6c9" testName="TechChallenge.Teste.ContatoControllerTest_Adicionar.AdicionarContato_ContatoInvalido" computerName="LUA" duration="00:00:02.8093682" startTime="2024-12-13T10:36:01.8957383-03:00" endTime="2024-12-13T10:36:01.8957384-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e7e3b8a-72ec-4c97-9ff1-27b93d0e7245" />
+    <UnitTestResult executionId="4e6208e2-9ba6-4ac9-bec3-2be5cacd8997" testId="bf0efbd1-b110-1241-3c5a-c792307f4eb7" testName="TechChallenge.Teste.ContatoControllerTest_Adicionar.AdicionarContato_ContatoValido" computerName="LUA" duration="00:00:00.0005301" startTime="2024-12-13T10:36:01.8963262-03:00" endTime="2024-12-13T10:36:01.8963263-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e6208e2-9ba6-4ac9-bec3-2be5cacd8997" />
+    <UnitTestResult executionId="930e35cc-53d1-41dc-b981-9e1c54973f6a" testId="6d07c9f8-253e-28df-e384-ff587632bdc5" testName="TechChallengeFase1.Teste.BrasilAPITest.AcessarBrasilAPI" computerName="LUA" duration="00:00:02.9158151" startTime="2024-12-13T10:36:02.0054307-03:00" endTime="2024-12-13T10:36:02.0054310-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="930e35cc-53d1-41dc-b981-9e1c54973f6a" />
+    <UnitTestResult executionId="6cf2f135-185a-47af-a22b-302e9323e329" testId="41e05d98-3be2-bac4-0919-06808291c0b2" testName="TechChallenge.Teste.ContatoControllerTest_Obter.ObterContato_Excecao" computerName="LUA" duration="00:00:00.0029969" startTime="2024-12-13T10:36:01.8948867-03:00" endTime="2024-12-13T10:36:01.8948868-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6cf2f135-185a-47af-a22b-302e9323e329" />
+    <UnitTestResult executionId="919a2eb3-becc-4d9b-9a6f-7e113c119736" testId="ff9360cf-5dd3-a7ba-4fca-4e5c0bf440d7" testName="TechChallenge.Teste.ContatoControllerTest_Atualizar.AtualizarContato_Excecao" computerName="LUA" duration="00:00:02.8081322" startTime="2024-12-13T10:36:01.8953011-03:00" endTime="2024-12-13T10:36:01.8953011-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="919a2eb3-becc-4d9b-9a6f-7e113c119736" />
+    <UnitTestResult executionId="17de17f9-613c-45e1-b046-2beb2210dfb3" testId="8c2f2beb-dcca-3a7a-94ee-9e38f7bcc84b" testName="TechChallenge.Teste.ContatoControllerTest_Obter.ObterContato_RetornaOk" computerName="LUA" duration="00:00:02.7969677" startTime="2024-12-13T10:36:01.8853519-03:00" endTime="2024-12-13T10:36:01.8853651-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17de17f9-613c-45e1-b046-2beb2210dfb3" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_ObterPorRegiao.ObterContatoPorRegiao_Excecao" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="37c89a11-f227-9aa1-3ac6-1a3f7b2f4d67">
+      <Execution id="6f76deda-0af6-449d-abda-979a58afb087" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_ObterPorRegiao" name="ObterContatoPorRegiao_Excecao" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Excluir.ExcluirContato_RetornaOK" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="e84b78ac-cd22-b97f-09a5-b12a061fdd63">
+      <Execution id="32c29124-2914-4c0e-b78d-5d04287e0b57" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Excluir" name="ExcluirContato_RetornaOK" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Obter.ObterContato_RetornaOk" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="8c2f2beb-dcca-3a7a-94ee-9e38f7bcc84b">
+      <Execution id="17de17f9-613c-45e1-b046-2beb2210dfb3" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Obter" name="ObterContato_RetornaOk" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Atualizar.AtualizarContato_RetornaOk" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="215f19b1-3985-2a3c-dce7-8e5d6a26a28c">
+      <Execution id="715d880e-bf0c-4ea2-9add-8e3dc15596bf" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Atualizar" name="AtualizarContato_RetornaOk" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Adicionar.AdicionarContato_ContatoValido" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="bf0efbd1-b110-1241-3c5a-c792307f4eb7">
+      <Execution id="4e6208e2-9ba6-4ac9-bec3-2be5cacd8997" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Adicionar" name="AdicionarContato_ContatoValido" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_ObterPorRegiao.ObterContatoPorRegiao_RetornaOk" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="01642a56-7d2f-7ad6-a93b-41a9c5dd1976">
+      <Execution id="50a2b8ef-d3fc-4e76-bbe7-234b93566806" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_ObterPorRegiao" name="ObterContatoPorRegiao_RetornaOk" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Obter.ObterContato_Excecao" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="41e05d98-3be2-bac4-0919-06808291c0b2">
+      <Execution id="6cf2f135-185a-47af-a22b-302e9323e329" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Obter" name="ObterContato_Excecao" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Atualizar.AtualizarContato_Excecao" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="ff9360cf-5dd3-a7ba-4fca-4e5c0bf440d7">
+      <Execution id="919a2eb3-becc-4d9b-9a6f-7e113c119736" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Atualizar" name="AtualizarContato_Excecao" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Adicionar.AdicionarContato_ContatoInvalido" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="d8094e15-3ad5-966b-b9b3-b7f18291a6c9">
+      <Execution id="0e7e3b8a-72ec-4c97-9ff1-27b93d0e7245" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Adicionar" name="AdicionarContato_ContatoInvalido" />
+    </UnitTest>
+    <UnitTest name="TechChallengeFase1.Teste.BrasilAPITest.AcessarBrasilAPI" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="6d07c9f8-253e-28df-e384-ff587632bdc5">
+      <Execution id="930e35cc-53d1-41dc-b981-9e1c54973f6a" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallengeFase1.Teste.BrasilAPITest" name="AcessarBrasilAPI" />
+    </UnitTest>
+    <UnitTest name="TechChallenge.Teste.ContatoControllerTest_Excluir.ExcluirContato_Excecao" storage="c:\users\luana\documentos\fase3\techchallenge.teste\bin\debug\net8.0\techchallengefase3.teste.dll" id="8b9b7278-5a64-1cec-ca39-af4093f6cbfa">
+      <Execution id="fa6d5660-a18f-43a4-a4da-c7d666555055" />
+      <TestMethod codeBase="C:\Users\luana\Documentos\Fase3\TechChallenge.Teste\bin\Debug\net8.0\TechChallengeFase3.Teste.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TechChallenge.Teste.ContatoControllerTest_Excluir" name="ExcluirContato_Excecao" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="8b9b7278-5a64-1cec-ca39-af4093f6cbfa" executionId="fa6d5660-a18f-43a4-a4da-c7d666555055" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="01642a56-7d2f-7ad6-a93b-41a9c5dd1976" executionId="50a2b8ef-d3fc-4e76-bbe7-234b93566806" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="215f19b1-3985-2a3c-dce7-8e5d6a26a28c" executionId="715d880e-bf0c-4ea2-9add-8e3dc15596bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37c89a11-f227-9aa1-3ac6-1a3f7b2f4d67" executionId="6f76deda-0af6-449d-abda-979a58afb087" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e84b78ac-cd22-b97f-09a5-b12a061fdd63" executionId="32c29124-2914-4c0e-b78d-5d04287e0b57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8094e15-3ad5-966b-b9b3-b7f18291a6c9" executionId="0e7e3b8a-72ec-4c97-9ff1-27b93d0e7245" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bf0efbd1-b110-1241-3c5a-c792307f4eb7" executionId="4e6208e2-9ba6-4ac9-bec3-2be5cacd8997" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6d07c9f8-253e-28df-e384-ff587632bdc5" executionId="930e35cc-53d1-41dc-b981-9e1c54973f6a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41e05d98-3be2-bac4-0919-06808291c0b2" executionId="6cf2f135-185a-47af-a22b-302e9323e329" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ff9360cf-5dd3-a7ba-4fca-4e5c0bf440d7" executionId="919a2eb3-becc-4d9b-9a6f-7e113c119736" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c2f2beb-dcca-3a7a-94ee-9e38f7bcc84b" executionId="17de17f9-613c-45e1-b046-2beb2210dfb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados que não estão em uma lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos os resultados carregados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="11" executed="11" passed="11" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.11)&#xD;
+[xUnit.net 00:00:01.31]   Discovering: TechChallengeFase3.Teste&#xD;
+[xUnit.net 00:00:01.33]   Discovered:  TechChallengeFase3.Teste&#xD;
+[xUnit.net 00:00:01.33]   Starting:    TechChallengeFase3.Teste&#xD;
+[xUnit.net 00:00:04.29]   Finished:    TechChallengeFase3.Teste&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

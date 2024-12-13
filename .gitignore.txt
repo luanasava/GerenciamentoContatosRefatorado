@@ -1,0 +1,18 @@
+# Diretórios e arquivos gerados automaticamente pelo Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Diretórios e arquivos de build
+**/bin/
+**/obj/
+
+# Arquivos do NuGet
+*.nupkg
+
+# Arquivos temporários e de log
+*.log

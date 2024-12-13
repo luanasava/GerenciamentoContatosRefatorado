@@ -4,6 +4,10 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{74F08590-E8A8-4589-A379-43B33C067EB2}|..\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj|c:\\users\\luana\\documentos\\fase3\\techchallenge.teste\\techchallengefase3.teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D99E50-280B-4660-93B4-EA8CDABBC251}|TechChallengeFase3.Producer.csproj|c:\\users\\luana\\documentos\\fase3\\techchallengefase3\\techchallengefase3.producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7D99E50-280B-4660-93B4-EA8CDABBC251}|TechChallengeFase3.Producer.csproj|solutionrelative:techchallengefase3.producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechChallengeFase3.Producer",
+              "DocumentMoniker": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
+              "RelativeDocumentMoniker": "TechChallengeFase3.Producer.csproj",
+              "ToolTip": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
+              "RelativeToolTip": "TechChallengeFase3.Producer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T13:31:14.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TechChallengeFase3.Teste",
+              "Title": "TechChallengeFase3.Teste.csproj",
               "DocumentMoniker": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
               "RelativeDocumentMoniker": "..\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
               "ToolTip": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
               "RelativeToolTip": "..\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-13T13:18:09.674Z",
               "EditorCaption": ""
