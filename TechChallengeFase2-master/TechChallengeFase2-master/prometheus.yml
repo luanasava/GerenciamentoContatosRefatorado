@@ -1,0 +1,8 @@
+global:
+  scrape_interval: 15s  
+
+scrape_configs:
+  - job_name: 'TechChallengeFase2'
+    static_configs:
+      - targets: ['172.26.128.1:7010']  
+

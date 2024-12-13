@@ -1,0 +1,117 @@
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\appsettings.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.staticwebassets.endpoints.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.exe
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.deps.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.runtimeconfig.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.pdb
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.AssemblyReference.cache
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.AssemblyInfoInputs.cache
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.AssemblyInfo.cs
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.CoreCompileInputs.cache
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\scopedcss\bundle\TechChallengeFase3.Producer.styles.css
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.TechChallengeFase3.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.TechChallengeFase3.Producer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.build.TechChallengeFase3.Producer.props
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TechChallengeFase3.Producer.props
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TechChallengeFase3.Producer.props
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChal.FA143AEF.Up2Date
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\refint\TechChallengeFase3.Producer.dll
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.pdb
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.genruntimeconfig.cache
+C:\Users\luana\Downloads\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\ref\TechChallengeFase3.Producer.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\appsettings.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.exe
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.deps.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.runtimeconfig.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.pdb
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.AssemblyReference.cache
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.AssemblyInfoInputs.cache
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.AssemblyInfo.cs
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.CoreCompileInputs.cache
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.TechChallengeFase3.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.build.TechChallengeFase3.Producer.props
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TechChallengeFase3.Producer.props
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TechChallengeFase3.Producer.props
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\scopedcss\bundle\TechChallengeFase3.Producer.styles.css
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.CopyComplete
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\refint\TechChallengeFase3.Producer.dll
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.pdb
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.genruntimeconfig.cache
+C:\Users\INFIS001027\Downloads\TechChallengeFase3 (1)\TechChallengeFase3\TechChallengeFase3\obj\Debug\net8.0\ref\TechChallengeFase3.Producer.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\appsettings.Development.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\appsettings.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.exe
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.deps.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.runtimeconfig.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\TechChallengeFase3.Producer.pdb
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\Core.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\bin\Debug\net8.0\Core.pdb
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.AssemblyReference.cache
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.AssemblyInfoInputs.cache
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.AssemblyInfo.cs
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.CoreCompileInputs.cache
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.TechChallengeFase3.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.build.TechChallengeFase3.Producer.props
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TechChallengeFase3.Producer.props
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TechChallengeFase3.Producer.props
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\scopedcss\bundle\TechChallengeFase3.Producer.styles.css
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.csproj.CopyComplete
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\refint\TechChallengeFase3.Producer.dll
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.pdb
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\TechChallengeFase3.Producer.genruntimeconfig.cache
+C:\Estudos\Pós\Fase 3\TechChallengeFase3\obj\Debug\net8.0\ref\TechChallengeFase3.Producer.dll
