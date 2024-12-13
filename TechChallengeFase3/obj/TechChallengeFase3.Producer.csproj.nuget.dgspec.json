@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj": {}
+    "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Pós\\Fase 3\\Core\\Core.csproj": {
+    "C:\\Users\\luana\\Documentos\\Fase3\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Pós\\Fase 3\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\luana\\Documentos\\Fase3\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Estudos\\Pós\\Fase 3\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\INFIS001027\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Pós\\Fase 3\\Core\\obj\\",
+        "projectPath": "C:\\Users\\luana\\Documentos\\Fase3\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luana\\Documentos\\Fase3\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFIS001027\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +25,8 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Bibliotecas": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +39,23 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj": {
+    "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
+        "projectUniqueName": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
         "projectName": "TechChallengeFase3.Producer",
-        "projectPath": "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
-        "packagesPath": "C:\\Users\\INFIS001027\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\obj\\",
+        "projectPath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
+        "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFIS001027\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,16 +97,16 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Bibliotecas": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Estudos\\Pós\\Fase 3\\Core\\Core.csproj": {
-                "projectPath": "C:\\Estudos\\Pós\\Fase 3\\Core\\Core.csproj"
+              "C:\\Users\\luana\\Documentos\\Fase3\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\luana\\Documentos\\Fase3\\Core\\Core.csproj"
               }
             }
           }
@@ -103,7 +115,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -116,6 +134,10 @@
             "MassTransit.RabbitMQ": {
               "target": "Package",
               "version": "[8.3.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -141,7 +163,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

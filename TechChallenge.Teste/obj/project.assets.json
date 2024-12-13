@@ -1588,15 +1588,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/13.0.1": {
+      "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -3397,6 +3397,9 @@
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
           "bin/placeholder/Core.dll": {}
         },
@@ -3416,6 +3419,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Microsoft.Extensions.Hosting": "8.0.1",
           "Moq": "4.18.2",
+          "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore": "6.6.2",
           "prometheus-net": "8.1.1",
           "prometheus-net.AspNetCore": "8.1.1",
@@ -3439,6 +3443,7 @@
           "Core": "1.0.0",
           "MassTransit.Extensions.DependencyInjection": "7.3.1",
           "MassTransit.RabbitMQ": "8.3.3",
+          "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "compile": {
@@ -5803,14 +5808,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/13.0.1": {
-      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
-      "path": "newtonsoft.json/13.0.1",
+      "path": "newtonsoft.json/13.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -5819,13 +5825,15 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
@@ -10078,7 +10086,7 @@
       "Microsoft.NET.Test.Sdk >= 17.11.1",
       "MockQueryable.Moq >= 7.0.1",
       "Moq >= 4.20.70",
-      "Newtonsoft.Json >= 13.0.1",
+      "Newtonsoft.Json >= 13.0.3",
       "TechChallengeFase3.Consumer >= 1.0.0",
       "TechChallengeFase3.Producer >= 1.0.0",
       "coverlet.collector >= 6.0.0",
@@ -10087,23 +10095,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\INFIS001027\\.nuget\\packages\\": {},
+    "C:\\Users\\luana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudos\\Pós\\Fase 3\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
+      "projectUniqueName": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
       "projectName": "TechChallengeFase3.Teste",
-      "projectPath": "C:\\Estudos\\Pós\\Fase 3\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
-      "packagesPath": "C:\\Users\\INFIS001027\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudos\\Pós\\Fase 3\\TechChallenge.Teste\\obj\\",
+      "projectPath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallenge.Teste\\TechChallengeFase3.Teste.csproj",
+      "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallenge.Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\INFIS001027\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10111,19 +10119,19 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Bibliotecas": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase2-master\\TechChallengeFase2-master\\TechChallengeFase1\\TechChallengeFase3.Consumer.csproj": {
-              "projectPath": "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase2-master\\TechChallengeFase2-master\\TechChallengeFase1\\TechChallengeFase3.Consumer.csproj"
+            "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase2-master\\TechChallengeFase2-master\\TechChallengeFase1\\TechChallengeFase3.Consumer.csproj": {
+              "projectPath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase2-master\\TechChallengeFase2-master\\TechChallengeFase1\\TechChallengeFase3.Consumer.csproj"
             },
-            "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj": {
-              "projectPath": "C:\\Estudos\\Pós\\Fase 3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj"
+            "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj": {
+              "projectPath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj"
             }
           }
         }
@@ -10132,7 +10140,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -10152,7 +10166,7 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[13.0.1, )"
+            "version": "[13.0.3, )"
           },
           "coverlet.collector": {
             "target": "Package",
@@ -10183,8 +10197,90 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Azure.Identity' 1.10.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Azure.Identity' 1.10.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Extensions.Caching.Memory' 8.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Identity.Client' 4.56.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Identity.Client' 4.56.0 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Formats.Asn1' 5.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-447r-wph3-92pm",
+      "libraryId": "System.Formats.Asn1",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Net.Http' 4.3.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Text.RegularExpressions' 4.3.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

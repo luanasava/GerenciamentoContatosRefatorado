@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "KVZHaDEc/CRXl8AsCpOv0LnciMsmu204QB3aZC1+lSs=",
+  "Hash": "w4HprO5XYWh+NVY4++B+1OWra7i4ko2rYqIWIZld1Cc=",
   "Source": "TechChallengeFase3.Producer",
   "BasePath": "_content/TechChallengeFase3.Producer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
