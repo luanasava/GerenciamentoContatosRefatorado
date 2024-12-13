@@ -236,3 +236,5 @@ C:\Users\luana\Documentos\Fase3\TechChallengeFase3\bin\Debug\net8.0\zh-Hant\Micr
 C:\Users\luana\Documentos\Fase3\TechChallengeFase3\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\luana\Documentos\Fase3\TechChallengeFase3\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\luana\Documentos\Fase3\TechChallengeFase3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\luana\Documentos\Fase3\TechChallengeFase3\bin\Debug\net8.0\Core.deps.json
+C:\Users\luana\Documentos\Fase3\TechChallengeFase3\bin\Debug\net8.0\Core.runtimeconfig.json
