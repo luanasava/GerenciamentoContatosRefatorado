@@ -1,0 +1,28 @@
+name: TechChallenge3 Pipeline
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+    - name: Clear NuGet cache
+      run: dotnet nuget locals all --clear
+    - name: List files
+      run: ls -R
+    - name: Restore dependencies
+      run: dotnet restore TechChallengeFase3/TechChallengeFase3.sln
+    - name: Build
+      run: dotnet build TechChallengeFase3/TechChallengeFase3.sln --no-restore
+    - name: Test
+      run: dotnet test TechChallengeFase3/TechChallengeFase3.sln --no-build --verbosity normal
