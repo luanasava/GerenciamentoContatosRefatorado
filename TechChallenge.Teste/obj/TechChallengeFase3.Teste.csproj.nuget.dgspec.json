@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[17.11.1, )"
             },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -135,6 +139,10 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "Microsoft.TestPlatform": {
               "target": "Package",
               "version": "[17.11.1, )"
             },
@@ -276,6 +284,10 @@
               "target": "Package",
               "version": "[17.11.1, )"
             },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
             "Moq": {
               "target": "Package",
               "version": "[4.18.2, )"
@@ -394,6 +406,10 @@
               "version": "[8.3.3, )"
             },
             "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "Microsoft.TestPlatform": {
               "target": "Package",
               "version": "[17.11.1, )"
             },

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GEz5ygus2xk=",
+  "dgSpecHash": "aWcDqujHYE4=",
   "success": true,
   "projectFilePath": "C:\\Users\\luana\\Documentos\\Fase3\\TechChallengeFase3\\TechChallengeFase3.Producer.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\luana\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\luana\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
     "C:\\Users\\luana\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\luana\\.nuget\\packages\\microsoft.testplatform\\17.11.1\\microsoft.testplatform.17.11.1.nupkg.sha512",
     "C:\\Users\\luana\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
     "C:\\Users\\luana\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.1\\microsoft.testplatform.testhost.17.11.1.nupkg.sha512",
     "C:\\Users\\luana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
