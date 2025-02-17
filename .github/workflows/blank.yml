@@ -21,8 +21,8 @@ jobs:
     - name: List files
       run: ls -R
     - name: Restore dependencies
-      run: dotnet restore TechChallengeFase3/TechChallengeFase3.sln
+      run: dotnet restore TechChallengeFase3.Producer/TechChallengeFase3.sln
     - name: Build
-      run: dotnet build TechChallengeFase3/TechChallengeFase3.sln --no-restore
+      run: dotnet build TechChallengeFase3.Producer/TechChallengeFase3.sln --no-restore
     - name: Test
-      run: dotnet test TechChallengeFase3/TechChallengeFase3.sln --no-build --verbosity normal
+      run: dotnet test TechChallengeFase3.Producer/TechChallengeFase3.sln --no-build --verbosity normal
