@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: rabbitmq-service
+spec:
+  selector:
+    app: rabbitmq
+  ports:
+    - name: amqp
+      port: 5672  # Porta AMQP usada pelos microsserviços
+      targetPort: 5672
+    - name: management
+      port: 15672  # Porta da interface de administração
+      targetPort: 15672
+      nodePort: 30080
+  type: NodePort  

@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rabbitmq-deployment
+  labels:
+    app: rabbitmq
+spec:
+  replicas: 1  # Apenas um RabbitMQ geralmente é suficiente
+  selector:
+    matchLabels:
+      app: rabbitmq
+  template:
+    metadata:
+      labels:
+        app: rabbitmq
+    spec:
+      containers:
+        - name: rabbitmq
+          image: rabbitmq:3-management
+          ports:
+            - containerPort: 5672  # Porta para comunicação AMQP
+            - containerPort: 15672 # Porta para UI de gerenciamento
+          envFrom:
+            - configMapRef:
+                name: fiap-configmap  
+            - secretRef:
+                name: fiap-mssql-secret  
+          volumeMounts:
+            - name: rabbitmq-storage
+              mountPath: /var/lib/rabbitmq  # Persistência de mensagens
+      volumes:
+        - name: rabbitmq-storage
+          persistentVolumeClaim:
+            claimName: rabbitmq-pvc  # PVC para persistência do RabbitMQ

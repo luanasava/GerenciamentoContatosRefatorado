@@ -1,0 +1,79 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "FIAP@2024"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    networks:
+      - app-network
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3-management
+    hostname: "rabbitmq"
+    ports:
+        - "5672:5672"
+        - "15672:15672"
+    environment:
+        RABBITMQ_DEFAULT_USER: user_api
+        RABBITMQ_DEFAULT_PASS: senha123
+    networks:
+        - app-network
+    healthcheck:
+      test: ["CMD", "rabbitmqctl", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  consumer:
+    build:
+      context: .
+      dockerfile: TechChallengeFase3.Consumer/Dockerfile.Consumer
+    command: ["dotnet", "TechChallengeFase3.Consumer/TechChallengeFase3.Consumer.dll"]
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      sqlserver:
+        condition: service_started
+    ports:
+      - "3001:3001"
+    networks:
+      - app-network
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=Contato;User Id=sa;Password=FIAP@2024;TrustServerCertificate=True;
+      - MassTransit__Servidor=rabbitmq
+      - MassTransit__Usuario=user_api
+      - MassTransit__Senha=senha123
+
+  producer:
+    build:
+      context: .
+      dockerfile: TechChallengeFase3.Producer/Dockerfile.Producer
+    command: ["dotnet", "TechChallengeFase3.Producer/TechChallengeFase3.Producer.dll"]
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      sqlserver:
+        condition: service_started
+    ports:
+      - "3000:3000"
+    networks:
+      - app-network
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=Contato;User Id=sa;Password=FIAP@2024;
+      - MassTransit__Servidor=rabbitmq
+      - MassTransit__Usuario=user_api
+      - MassTransit__Senha=senha123         
+      
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  sqlserver_data:

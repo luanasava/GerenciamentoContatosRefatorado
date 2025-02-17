@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fiap-producer-deployment
+  labels:
+    app: fiap-producer
+    instance: fiap-producer-app
+  annotations:
+    description: "Este é a instância do microsserviço producer da minha aplicação."
+    autor: Grupo 31
+spec:
+  replicas: 2  
+  selector:
+    matchLabels:
+      app: fiap-producer
+  template:
+    metadata:
+      labels:
+        app: fiap-producer
+    spec:
+      containers:
+        - name: fiap-producer
+          image: letticialuize/gerenciamentocontatosrefatorado-producer:1.7
+          ports:
+            - containerPort: 3000
+          envFrom:
+            - configMapRef:
+                name: fiap-configmap   
+          volumeMounts:
+            - name: shared
+              mountPath: /app/data  
+      volumes:
+        - name: shared
+          persistentVolumeClaim:
+            claimName: fiap-mssql-pvc  

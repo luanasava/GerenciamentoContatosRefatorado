@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+    name: svc-fiap-producer-nodeport
+spec:
+    type: NodePort
+    ports:
+        - port: 80
+          targetPort: 3000
+          nodePort: 31300
+    selector:
+        app: fiap-producer

@@ -1,0 +1,5 @@
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: fiap-local-storage-class
+provisioner: kubernetes.io/no-provisioner  # Para ambientes locais sem provedor de nuvem

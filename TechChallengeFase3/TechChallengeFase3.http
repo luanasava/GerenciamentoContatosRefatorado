@@ -1,6 +1,0 @@
-@TechChallengeFase3_HostAddress = http://localhost:5147
-
-GET {{TechChallengeFase3_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

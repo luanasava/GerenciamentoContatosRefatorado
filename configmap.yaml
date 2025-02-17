@@ -1,0 +1,30 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: fiap-configmap
+data:
+  # Configuração do RabbitMQ
+  RABBITMQ_HOST: "rabbitmq-service"  # Nome do serviço do RabbitMQ
+  RABBITMQ_PORT: "5672"  # Porta do RabbitMQ
+
+  # Configuração do SQL Server
+  SQL_HOST: "mssql-service"  # Nome do serviço SQL
+  SQL_PORT: "1433" # Porta do SQL
+  SQL_DATABASE: "Contato"  # Nome do banco de dados
+
+  # Configuração dos Microservices
+  PRODUCER_SERVICE_HOST: "fiap-producer"
+  PRODUCER_SERVICE_PORT: "3000"
+  CONSUMER_SERVICE_HOST: "fiap-consumer"
+  CONSUMER_SERVICE_PORT: "3001"
+  
+  MassTransit__FilaCreate: "FilaCreate"
+  MassTransit__FilaUpdate: "FilaUpdate"
+  MassTransit__FilaDelete: "FilaDelete"
+  MassTransit__Servidor: "rabbitmq-service"
+  MassTransit__Usuario: "user_api"
+  MassTransit__Senha: "senha123"
+  
+  ConnectionStrings__DefaultConnection: "Data Source=mssql-service,1433;Initial Catalog=Contato;User Id=sa; Password=${SA_PASSWORD};Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;"
+  
+  

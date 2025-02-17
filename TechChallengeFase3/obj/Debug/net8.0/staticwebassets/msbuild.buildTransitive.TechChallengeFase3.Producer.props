@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\TechChallengeFase3.Producer.props" />
-</Project>
