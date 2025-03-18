@@ -48,4 +48,3 @@ O aplicativo monolítico foi dividido em microsserviços menores, cada um respon
 - **RabbitMQ:** Mensageria para comunicação assíncrona entre microsserviços.
 - **Prometheus:** Monitoramento da aplicação.
 - **Grafana:** Visualização de métricas coletadas pelo Prometheus.
-- **Microsserviços:** Cada microsserviço foi desenvolvido com foco em uma funcionalidade específica, utilizando tecnologias adequadas a cada contexto.
